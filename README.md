@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0217-contains-duplicate) |
+| [2058-concatenation-of-array](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,4 +20,8 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0242-valid-anagram) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
