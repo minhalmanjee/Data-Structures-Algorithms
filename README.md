@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0283-move-zeroes) |
@@ -33,6 +34,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0283-move-zeroes) |
 ## Divide and Conquer
 |  |
