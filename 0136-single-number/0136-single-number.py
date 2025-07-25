@@ -1,5 +1,12 @@
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
+        xor = 0
+        for n in nums:
+            xor ^= n
+        return xor
+
+        
+        '''
         count = {}
         for n in nums:
             if n in count:
@@ -10,5 +17,7 @@ class Solution:
         for n in nums:
             if count[n] == 1:
                 return n
+
+    '''
 
         
