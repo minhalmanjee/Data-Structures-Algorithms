@@ -2,18 +2,14 @@ class Solution:
     def isIsomorphic(self, s: str, t: str) -> bool:
         if len(s) != len(t):
             return False
-        
-        mapping = {}
-        mapped_values = set()
 
-        for cs, ct in zip(s, t):
-            if cs in mapping:
-                if mapping[cs] != ct:
-                    return False
-            else:
-                if ct in mapped_values:
-                    return False
-                mapping[cs] = ct
-                mapped_values.add(ct)
-
+        ds = {}
+        dt = {}
+        for cs, ct in zip(s,t):
+            if(cs in ds and ds[cs] != ct) or (ct in dt and dt[ct] != cs):
+                return False
+            ds[cs] = ct
+            dt[ct] = cs
         return True
+
+        
