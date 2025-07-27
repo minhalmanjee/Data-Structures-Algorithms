@@ -12,6 +12,7 @@
 | [0136-single-number](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0283-move-zeroes) |
 | [2058-concatenation-of-array](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/2058-concatenation-of-array) |
@@ -23,6 +24,7 @@
 | [0169-majority-element](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -76,4 +78,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0136-single-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
