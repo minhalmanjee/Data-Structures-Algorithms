@@ -15,6 +15,7 @@
 | [0219-contains-duplicate-ii](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0283-move-zeroes) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2058-concatenation-of-array](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -27,12 +28,14 @@
 | [0219-contains-duplicate-ii](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0782-jewels-and-stones) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0242-valid-anagram) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
 | ------- |
@@ -84,4 +87,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0219-contains-duplicate-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
