@@ -26,6 +26,7 @@
 | [0217-contains-duplicate](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0242-valid-anagram) |
+| [0782-jewels-and-stones](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0782-jewels-and-stones) |
 ## Sorting
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | [0205-isomorphic-strings](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0392-is-subsequence) |
+| [0782-jewels-and-stones](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0782-jewels-and-stones) |
 ## Simulation
 |  |
 | ------- |
