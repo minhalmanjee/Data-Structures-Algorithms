@@ -9,6 +9,8 @@ class Solution:
         for num in nums:
             result.append(hmap[num])
         return result
+
+        #explain: we sorted first & then stored index of sorted array and returned in arr the index of sorted num.
             
 
 
