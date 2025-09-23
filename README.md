@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0041-first-missing-positive) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -39,6 +40,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0205-isomorphic-strings) |
@@ -91,4 +93,8 @@
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
