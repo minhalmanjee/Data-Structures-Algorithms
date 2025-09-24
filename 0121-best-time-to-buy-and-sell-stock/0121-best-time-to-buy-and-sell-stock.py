@@ -1,12 +1,17 @@
-class Solution(object):
-    def maxProfit(self, prices):
+class Solution:
+    def maxProfit(self, prices: List[int]) -> int:
+        if len(prices) < 2:
+            return 0
+
         buy = prices[0]
+        sell = 0
         profit = 0
-        for i in range(1, len(prices)):
-            if buy > prices[i]:
-                buy = prices[i]
-            else:
-                currentprofit = prices[i] - buy
-                if profit < currentprofit:
-                    profit = currentprofit
+        for r in range(1, len(prices)):
+            if prices[r] < buy:
+                buy = prices[r]
+            sell = prices[r]
+            profit = max(profit, sell - buy)
         return profit
+
+
+        
