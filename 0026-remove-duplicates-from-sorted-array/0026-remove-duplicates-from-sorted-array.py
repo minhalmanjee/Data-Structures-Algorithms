@@ -7,4 +7,3 @@ class Solution:
                 nums[l+1] = nums[r]
                 l+= 1
         return l+1
-   
