@@ -103,6 +103,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0202-happy-number) |
 ## Stack
 |  |
