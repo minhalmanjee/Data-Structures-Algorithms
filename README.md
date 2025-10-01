@@ -24,6 +24,7 @@
 | [0001-two-sum](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0219-contains-duplicate-ii) |
@@ -57,6 +58,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
@@ -97,4 +99,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0014-longest-common-prefix) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
