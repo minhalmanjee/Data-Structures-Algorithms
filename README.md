@@ -16,6 +16,7 @@
 | [0219-contains-duplicate-ii](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2058-concatenation-of-array](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/2058-concatenation-of-array) |
 ## Hash Table
@@ -29,6 +30,7 @@
 | [0217-contains-duplicate](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0782-jewels-and-stones](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
@@ -37,6 +39,7 @@
 | [0169-majority-element](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
@@ -61,6 +64,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
 |  |
@@ -110,4 +114,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
