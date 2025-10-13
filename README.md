@@ -20,6 +20,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2058-concatenation-of-array](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/2058-concatenation-of-array) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -116,6 +117,7 @@
 | [0009-palindrome-number](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0202-happy-number) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Stack
 |  |
 | ------- |
