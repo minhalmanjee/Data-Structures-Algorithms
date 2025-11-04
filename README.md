@@ -21,6 +21,7 @@
 | [0283-move-zeroes](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0349-intersection-of-two-arrays) |
+| [1184-car-pooling](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/1184-car-pooling) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2058-concatenation-of-array](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/2058-concatenation-of-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -47,6 +48,7 @@
 | [0217-contains-duplicate](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0349-intersection-of-two-arrays) |
+| [1184-car-pooling](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/1184-car-pooling) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
@@ -63,6 +65,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1184-car-pooling](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/1184-car-pooling) |
 | [2058-concatenation-of-array](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/2058-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -96,6 +99,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0238-product-of-array-except-self) |
+| [1184-car-pooling](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/1184-car-pooling) |
 ## Greedy
 |  |
 | ------- |
@@ -138,4 +142,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1184-car-pooling](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/1184-car-pooling) |
 <!---LeetCode Topics End-->
