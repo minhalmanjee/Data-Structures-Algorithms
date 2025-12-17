@@ -15,10 +15,10 @@ public:
     }
 int partition(string &s, int l, int r) {
     char pivot = s[l];
-    int i = l + 1;
+    int i = l;
     int j = r;
 
-    while (i <= j) {
+    while (i < j) {
         while (i <= r && s[i] <= pivot)
             i++;
 
