@@ -19,7 +19,7 @@ int partition(string &s, int l, int r) {
     int j = r;
 
     while (i < j) {
-        while (i <= r && s[i] <= pivot)
+        while (i <= j && s[i] <= pivot)
             i++;
 
         while (s[j] > pivot)
