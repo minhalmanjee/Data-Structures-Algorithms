@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -31,6 +32,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0205-isomorphic-strings) |
@@ -45,6 +47,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0217-contains-duplicate) |
@@ -58,6 +61,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0205-isomorphic-strings) |
