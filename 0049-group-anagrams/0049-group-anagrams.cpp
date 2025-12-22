@@ -1,55 +1,100 @@
 class Solution {
 public:
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
-        unordered_map<string, vector<string>> mp;
+          if(strs.size() == 0){
+            return {};
+        }
 
+        unordered_map<string, vector<string>> mp;
         for(int i=0; i<strs.size(); i++){
-            string s = strs[i];
-            quicksort(s, 0, s.size()-1);
-            mp[s].push_back(strs[i]);
+            int cnt[26] = {0};
+
+            for(int j=0; j<strs[i].size(); j++){
+                cnt[strs[i][j] - 'a']++;
+            }
+
+            string key="";
+            for(int k=0; k<26; k++){
+                key += '#';
+                key += to_string(cnt[k]);
+            }
+
+            mp[key].push_back(strs[i]);
+
         }
 
         vector<vector<string>> res;
-        for(auto it = mp.begin(); it!=mp.end(); it++){
+        for (auto it=mp.begin(); it!=mp.end(); it++){
             res.push_back(it->second);
         }
+
         return res;
 
 
 
+      
         
-    }
-
-
-    void quicksort(string& s, int l, int h){
-        if(l<h){
-            int p = partition(s, l, h);
-            quicksort(s, l, p-1);
-            quicksort(s, p+1, h);
-        }
-    }
-
-    int partition(string& s, int l, int h){
-        int i = l; int j = h;
-        int pivot = s[i];
-        while(i<j){
-            while(i<=j && s[i] <= pivot){
-                i++;
-            }
-            while(s[j] > pivot){
-                j--;
-            }
-            if(i<j){
-                swap(s[i], s[j]);
-            }
-        }
-        swap(s[l], s[j]);
-        return j;
     }
 };
 
 
-//Bruteforce
+
+
+
+
+// sorting + hashmap + traverse to collect groups: O(n logk) k len of longest str
+// class Solution {
+// public:
+//     vector<vector<string>> groupAnagrams(vector<string>& strs) {
+//         unordered_map<string, vector<string>> mp;
+
+//         for(int i=0; i<strs.size(); i++){
+//             string s = strs[i];
+//             quicksort(s, 0, s.size()-1);
+//             mp[s].push_back(strs[i]);
+//         }
+
+//         vector<vector<string>> res;
+//         for(auto it = mp.begin(); it!=mp.end(); it++){
+//             res.push_back(it->second);
+//         }
+//         return res;
+
+
+
+        
+//     }
+
+
+//     void quicksort(string& s, int l, int h){
+//         if(l<h){
+//             int p = partition(s, l, h);
+//             quicksort(s, l, p-1);
+//             quicksort(s, p+1, h);
+//         }
+//     }
+
+//     int partition(string& s, int l, int h){
+//         int i = l; int j = h;
+//         int pivot = s[i];
+//         while(i<j){
+//             while(i<=j && s[i] <= pivot){
+//                 i++;
+//             }
+//             while(s[j] > pivot){
+//                 j--;
+//             }
+//             if(i<j){
+//                 swap(s[i], s[j]);
+//             }
+//         }
+//         swap(s[l], s[j]);
+//         return j;
+//     }
+// };
+
+
+//Bruteforce: O(n^2)
 // class Solution {
 // public:
 //     vector<vector<string>> groupAnagrams(vector<string>& strs) {
