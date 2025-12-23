@@ -22,6 +22,7 @@
 | [0268-missing-number](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [1184-car-pooling](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/1184-car-pooling) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -40,6 +41,7 @@
 | [0219-contains-duplicate-ii](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0782-jewels-and-stones) |
@@ -53,6 +55,7 @@
 | [0217-contains-duplicate](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [1184-car-pooling](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/1184-car-pooling) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -91,10 +94,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 ## Dynamic Programming
 |  |
@@ -155,5 +160,14 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [1184-car-pooling](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/1184-car-pooling) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
