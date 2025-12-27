@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0036-valid-sudoku](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0088-merge-sorted-array) |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0169-majority-element) |
@@ -170,4 +172,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
