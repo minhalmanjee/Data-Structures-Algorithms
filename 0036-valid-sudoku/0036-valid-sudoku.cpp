@@ -1,5 +1,5 @@
 
-//O(1)
+//O(1) because 81 operations gauranteed so 81-constant it wont increase like O(n^2) since board size is always fixed.
 class Solution {
 public:
     bool isValidSudoku(vector<vector<char>>& board) {
