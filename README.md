@@ -27,6 +27,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0704-binary-search) |
 | [1184-car-pooling](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/1184-car-pooling) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2058-concatenation-of-array](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/2058-concatenation-of-array) |
@@ -161,6 +162,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0704-binary-search) |
 ## Queue
 |  |
 | ------- |
