@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0049-group-anagrams) |
@@ -159,6 +160,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0349-intersection-of-two-arrays) |
