@@ -20,7 +20,7 @@ public:
         return false;
     }
 
-
+    /// binary search to find the correct row, then we send row to fn above to apply BS to find target
     bool searchMatrix(vector<vector<int>>& matrix, int target) {
         int sr=0; int er= matrix.size()-1;
         int n = matrix[0].size()-1;
