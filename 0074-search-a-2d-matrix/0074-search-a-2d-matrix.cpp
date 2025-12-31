@@ -21,6 +21,8 @@ public:
     }
 
     /// binary search to find the correct row, then we send row to fn above to apply BS to find target
+// main func runs logn to find correct row. then only that roow sent to find target and that will take logm so total is logn+logm. by log property is becomes log(mxn)
+
     bool searchMatrix(vector<vector<int>>& matrix, int target) {
         int sr=0; int er= matrix.size()-1;
         int n = matrix[0].size()-1;
