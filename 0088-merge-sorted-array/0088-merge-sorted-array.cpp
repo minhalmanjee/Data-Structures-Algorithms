@@ -1,26 +1,42 @@
 class Solution {
 public:
-    void merge(vector<int>& A, int m, vector<int>& B, int n) {
-        int idx = m+n-1; 
-        int i = m-1;
-        int j = n-1;
-        while(i >= 0 && j >= 0){
-            if(A[i] >= B[j]){
-                A[idx] = A[i];
-                i--; idx--;
-                
-            } 
+    void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
+        //going backward for both arrs storing larger element in the arr.
+
+        m=m-1;
+        n=n-1;
+        int len=nums1.size()-1;
+
+        while(len >= 0 && m>=0 && n>=0){
+
+            if(nums1[m] > nums2[n]){
+                nums1[len] = nums1[m];
+                m--;
+                len--;
+            }
             else{
-                A[idx] = B[j];
-                j--; idx--;
-                
-            } 
+                nums1[len] = nums2[n];
+                n--; len--;
+            }
+            
+
         }
 
-        while(j >= 0){
-            A[idx] = B[j];
-            idx--; j--;
-        }
+
+        while(len >= 0 && m<0 && n>=0){
+                nums1[len] = nums2[n];
+                n--;
+                len--;
+            }
+
+
+
+
         
+
+
     }
+
+
+    
 };
