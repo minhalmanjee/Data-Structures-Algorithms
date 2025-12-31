@@ -13,6 +13,7 @@
 | [0036-valid-sudoku](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -162,6 +163,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0349-intersection-of-two-arrays) |
@@ -188,4 +190,5 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
