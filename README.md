@@ -24,6 +24,7 @@
 | [0217-contains-duplicate](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0334-increasing-triplet-subsequence) |
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
@@ -165,6 +167,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0704-binary-search) |
@@ -191,4 +194,5 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
