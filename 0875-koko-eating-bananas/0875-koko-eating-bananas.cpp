@@ -1,3 +1,4 @@
+//complexxity: half searches so Log(max of piles) x n (n-> we calculate totalspeed in tf below)
 class Solution {
 public:
     int minEatingSpeed(vector<int>& piles, int h) {
