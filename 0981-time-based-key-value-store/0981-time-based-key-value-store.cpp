@@ -28,7 +28,7 @@ public:
             if(mp[key][mid].first == timestamp){
                 return mp[key][mid].second;
             }
-            else if(mp[key][mid].first <= timestamp){
+            else if(mp[key][mid].first <= timestamp){ //return largest < timestamp if timestamp not present
                 ans =  mp[key][mid].second;
                 s = mid+1;
             }else e=mid-1;
