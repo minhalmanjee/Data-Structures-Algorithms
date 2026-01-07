@@ -56,6 +56,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0782-jewels-and-stones) |
+| [0981-time-based-key-value-store](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0981-time-based-key-value-store) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
@@ -84,6 +85,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0392-is-subsequence) |
 | [0782-jewels-and-stones](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0782-jewels-and-stones) |
+| [0981-time-based-key-value-store](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0981-time-based-key-value-store) |
 ## Simulation
 |  |
 | ------- |
@@ -176,6 +178,7 @@
 | [0704-binary-search](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0875-koko-eating-bananas) |
+| [0981-time-based-key-value-store](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0981-time-based-key-value-store) |
 ## Queue
 |  |
 | ------- |
@@ -199,4 +202,8 @@
 | [0036-valid-sudoku](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
+## Design
+|  |
+| ------- |
+| [0981-time-based-key-value-store](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0981-time-based-key-value-store) |
 <!---LeetCode Topics End-->
