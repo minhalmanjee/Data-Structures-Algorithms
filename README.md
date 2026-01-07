@@ -165,6 +165,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0155-min-stack) |
 ## Binary Search
 |  |
 | ------- |
@@ -205,5 +206,6 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0155-min-stack) |
 | [0981-time-based-key-value-store](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0981-time-based-key-value-store) |
 <!---LeetCode Topics End-->
