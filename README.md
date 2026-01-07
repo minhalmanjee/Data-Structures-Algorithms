@@ -33,6 +33,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0875-koko-eating-bananas) |
 | [1184-car-pooling](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/1184-car-pooling) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2058-concatenation-of-array](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/2058-concatenation-of-array) |
@@ -174,6 +175,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0875-koko-eating-bananas) |
 ## Queue
 |  |
 | ------- |
