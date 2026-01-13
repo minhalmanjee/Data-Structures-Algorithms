@@ -166,6 +166,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0901-online-stock-span) |
 ## Binary Search
 |  |
 | ------- |
@@ -207,5 +208,14 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0901-online-stock-span) |
 | [0981-time-based-key-value-store](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0981-time-based-key-value-store) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
