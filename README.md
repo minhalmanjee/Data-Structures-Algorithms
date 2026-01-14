@@ -32,6 +32,7 @@
 | [0347-top-k-frequent-elements](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0875-koko-eating-bananas) |
 | [1184-car-pooling](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/1184-car-pooling) |
@@ -166,6 +167,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0901-online-stock-span) |
 ## Binary Search
 |  |
@@ -213,6 +215,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
