@@ -31,6 +31,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -56,6 +57,7 @@
 | [0347-top-k-frequent-elements](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0782-jewels-and-stones](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0782-jewels-and-stones) |
 | [0981-time-based-key-value-store](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0981-time-based-key-value-store) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -167,6 +169,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0901-online-stock-span) |
 ## Binary Search
@@ -215,6 +218,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0901-online-stock-span) |
 ## Data Stream
