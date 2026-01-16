@@ -34,6 +34,7 @@
 | [0347-top-k-frequent-elements](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -175,6 +176,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0901-online-stock-span) |
 ## Binary Search
@@ -225,6 +227,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0901-online-stock-span) |
 ## Data Stream
