@@ -175,6 +175,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0739-daily-temperatures) |
@@ -196,6 +197,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 ## Heap (Priority Queue)
 |  |
@@ -220,6 +222,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0901-online-stock-span](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0901-online-stock-span) |
 | [0981-time-based-key-value-store](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0981-time-based-key-value-store) |
 ## Monotonic Stack
