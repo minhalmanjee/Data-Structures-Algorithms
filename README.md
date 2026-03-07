@@ -96,6 +96,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0782-jewels-and-stones](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0782-jewels-and-stones) |
 | [0981-time-based-key-value-store](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/0981-time-based-key-value-store) |
+| [3110-score-of-a-string](https://github.com/minhalmanjee/Data-Structures-Algorithms/tree/master/3110-score-of-a-string) |
 ## Simulation
 |  |
 | ------- |
